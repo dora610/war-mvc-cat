@@ -34,3 +34,15 @@
 2023-03-19T20:21:43.616+05:30  INFO 11922 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
 2023-03-19T20:21:43.993+05:30  INFO 11922 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
 2023-03-19T20:21:44.042+05:30  INFO 11922 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.559 seconds (process running for 0.98)
+2023-03-19T21:38:04.849+05:30  INFO 13240 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 13240 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T21:38:04.850+05:30  INFO 13240 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:38:05.232+05:30  INFO 13240 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T21:38:05.286+05:30  INFO 13240 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.573 seconds (process running for 0.997)
+2023-03-19T21:43:14.546+05:30  INFO 13345 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 13345 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T21:43:14.547+05:30  INFO 13345 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:43:14.911+05:30  INFO 13345 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T21:43:14.953+05:30  INFO 13345 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.525 seconds (process running for 0.925)
+2023-03-19T21:46:20.553+05:30  INFO 13402 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 13402 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T21:46:20.555+05:30  INFO 13402 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:46:20.943+05:30  INFO 13402 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T21:46:20.988+05:30  INFO 13402 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.585 seconds (process running for 1.015)

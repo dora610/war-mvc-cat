@@ -1,5 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -13,14 +14,16 @@
     <form:form modelAttribute="registration">
     	<table>
             <tr>
-                <td>Name</td>
+                <td>
+                	<spring:message code="name"/>:
+                </td>
                 <td>
                     <form:input path="name" />
                 </td>
             </tr>
             <tr>
                 <td colspan="2">
-                    <input type="submit" value="Add Registration">
+                    <input type="submit" value="<spring:message code="add.registration" text="default"/>" />
                 </td>
             </tr>
         </table>
