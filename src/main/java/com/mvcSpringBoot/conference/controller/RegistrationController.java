@@ -32,6 +32,6 @@ public class RegistrationController {
 			Map<String, String> model) {
 		logger.info(registration.getName());
 		model.put("successMessage", "Registration successful");
-		return "registration";
+		return "redirect:registration";
 	}
 }
