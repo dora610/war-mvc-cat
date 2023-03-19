@@ -1,0 +1,36 @@
+2023-03-19T19:35:10.288+05:30  INFO 11111 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 11111 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T19:35:10.289+05:30  INFO 11111 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T19:35:10.640+05:30  INFO 11111 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T19:35:10.685+05:30  INFO 11111 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.514 seconds (process running for 0.922)
+2023-03-19T19:36:55.496+05:30  INFO 11155 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 11155 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T19:36:55.497+05:30  INFO 11155 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T19:36:55.840+05:30  INFO 11155 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T19:36:55.891+05:30  INFO 11155 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.51 seconds (process running for 0.906)
+2023-03-19T19:37:09.241+05:30  INFO 11182 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 11182 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T19:37:09.242+05:30  INFO 11182 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T19:37:09.601+05:30  INFO 11182 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T19:37:09.649+05:30  INFO 11182 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.549 seconds (process running for 0.943)
+2023-03-19T19:41:10.310+05:30  INFO 11243 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 11243 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T19:41:10.311+05:30  INFO 11243 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T19:41:10.659+05:30  INFO 11243 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T19:41:10.705+05:30  INFO 11243 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.51 seconds (process running for 0.909)
+2023-03-19T19:41:15.673+05:30  INFO 11267 --- [main] c.m.conference.ConferenceApplication     : Starting ConferenceApplication using Java 17.0.6 with PID 11267 (/Users/surajitkaruri/Projects/Spring/conference/conference/target/classes started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T19:41:15.674+05:30  INFO 11267 --- [main] c.m.conference.ConferenceApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T19:41:15.951+05:30  INFO 11267 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-19T19:41:15.956+05:30  INFO 11267 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-19T19:41:15.956+05:30  INFO 11267 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-19T19:41:15.989+05:30  INFO 11267 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-19T19:41:15.989+05:30  INFO 11267 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 299 ms
+2023-03-19T19:41:16.060+05:30  INFO 11267 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T19:41:16.115+05:30  INFO 11267 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-19T19:41:16.119+05:30  INFO 11267 --- [main] c.m.conference.ConferenceApplication     : Started ConferenceApplication in 0.588 seconds (process running for 0.846)
+2023-03-19T19:41:23.340+05:30  INFO 11267 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-19T19:41:23.341+05:30  INFO 11267 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-19T19:41:23.341+05:30  INFO 11267 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-03-19T19:41:30.177+05:30  INFO 11267 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-03-19T19:41:30.185+05:30  INFO 11267 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-03-19T19:41:30.187+05:30  INFO 11267 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-03-19T20:21:43.615+05:30  INFO 11922 --- [main] c.m.c.ConferenceApplicationTests         : Starting ConferenceApplicationTests using Java 17.0.6 with PID 11922 (started by surajitkaruri in /Users/surajitkaruri/Projects/Spring/conference/conference)
+2023-03-19T20:21:43.616+05:30  INFO 11922 --- [main] c.m.c.ConferenceApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-03-19T20:21:43.993+05:30  INFO 11922 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-03-19T20:21:44.042+05:30  INFO 11922 --- [main] c.m.c.ConferenceApplicationTests         : Started ConferenceApplicationTests in 0.559 seconds (process running for 0.98)

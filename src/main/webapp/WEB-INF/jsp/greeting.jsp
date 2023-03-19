@@ -7,6 +7,8 @@
     <title>Conference</title>
 </head>
 <body>
-    <h1>${message}</h1>
+    <h1>Hello ${name}</h1>
+    <br>
+    <a href="/conference/">Home</a>
 </body>
 </html>
