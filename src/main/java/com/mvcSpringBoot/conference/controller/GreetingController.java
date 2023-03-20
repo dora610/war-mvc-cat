@@ -28,4 +28,15 @@ public class GreetingController {
 		model.put("name", name);
 		return "greeting";
 	}
+	
+	
+	@GetMapping("thymegreet")
+	public String thyme(
+			Map<String, Object> model, 
+			@RequestParam(name = "name", defaultValue = "Coco") String name) {
+		
+		logger.info("Name: "+ name);
+		model.put("message", "Hello "+name);
+		return "thyme";
+	}
 }
